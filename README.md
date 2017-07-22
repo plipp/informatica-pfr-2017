@@ -44,6 +44,7 @@ If you don't succeed to install them upfront, don't worry: If help is needed, we
     conda install -c conda-forge cartopy=0.15.1
     
     conda install networkx
+    pip install python-louvain
 
     pip install graphviz
 ```
