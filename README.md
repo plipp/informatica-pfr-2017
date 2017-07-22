@@ -20,7 +20,7 @@ Therefore run in a terminal:
 ```bash
 $ jupyter-notebook
 ```
-, open in your browser [The Jupyter Notebook for the initial Installation Test](nbs/0-a-Test of the Installation.ipynb) and run it ... 
+, open in your browser [The Jupyter Notebook for the initial Installation Test](./nbs/0-a-Test of the Installation.ipynb) and run it ... 
 If all runs through and you see as output in the last cell `All looks good!` you are done!
 
 Further on in the workshop the following additional packages are required. We will install them together in the course, but if you want to play around upfront, please feel free to do so:
@@ -38,7 +38,7 @@ Further on in the workshop the following additional packages are required. We wi
 On OS-Level you also will need graphviz.
 Please check the [Graphviz Homepage](http://www.graphviz.org/) about how to install on your Machine.
 
-You can check, whether the additional components also work fine, with [The Jupyter Notebook for the initial Installation Test](nbs/0-b-Additional Component Installation Test.ipynb).
+You can check, whether the additional components also work fine, with [The Jupyter Notebook for the initial Installation Test](./nbs/0-b-Additional Component Installation Test.ipynb).
 
 #### Refresher - Python(3) Basics
 If you need a refresher of your Python knowledge the [Interactive Python Tutorial](https://www.learnpython.org/) is a good starting point.
