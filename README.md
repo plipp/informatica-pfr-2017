@@ -24,7 +24,7 @@ Just download and install the current distribution with Python 3.6 or higher as 
 
 Then test the Anaconda installation by running your first notebook:
 Therefore 
-- `git clone https://github.com/plipp/informatica-scala-2016.git` and 
+- `git clone https://github.com/plipp/informatica-pfr-2017.git` and 
 - run in a terminal:
 ```bash
 $ jupyter-notebook
