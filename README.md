@@ -8,7 +8,7 @@ Dive into the following topics
 - Text Analysis
 - Social Network Analysis
 
-## Front-Up Preparations
+## Up Front Preparations
 
 As this is a notebook class, you should try to set Python on your machine before we start with the actual workshop.
 
@@ -22,6 +22,8 @@ $ jupyter-notebook
 ```
 , open in your browser [The Jupyter Notebook for the initial Installation Test](./nbs/0-a-Test%20of%20the%20Installation.ipynb) and run it ... 
 If all runs through and you see as output in the last cell `All looks good!` you are done!
+
+### Optionals
 
 Further on in the workshop the following additional packages are required. We will install them together in the course, but if you want to play around upfront, please feel free to do so:
 ```bash
