@@ -12,6 +12,7 @@ Dive into the following topics
 
 As this is a notebook class, you should try to set Python on your machine before we start with the actual workshop.
 
+### Python Distribution Installation
 The easiest way to do so is by installing the [Anaconda Distribution](https://www.continuum.io/).
 Just download and install the current distribution with Python 3.6 or higher as described [in the Anaconda Installation Instructions](https://docs.continuum.io/anaconda/install).
 
@@ -23,9 +24,10 @@ $ jupyter-notebook
 , open in your browser [The Jupyter Notebook for the initial Installation Test](./nbs/0-a-Test%20of%20the%20Installation.ipynb) and run it ... 
 If all runs through and you see as output in the last cell `All looks good!` you are done!
 
-### Optionals
+### Additional Python Package Installation
 
-Further on in the workshop the following additional packages are required. We will install them together in the course, but if you want to play around upfront, please feel free to do so:
+Further on in the workshop the following additional packages are required. 
+If you don't succeed to install them upfront, don't worry: If help is needed, we will have enough time to install them together in the course.
 ```bash
     conda install seaborn
 
@@ -40,9 +42,9 @@ Further on in the workshop the following additional packages are required. We wi
 On OS-Level you also will need graphviz.
 Please check the [Graphviz Homepage](http://www.graphviz.org/) about how to install on your Machine.
 
-You can check, whether the additional components also work fine, with [The Jupyter Notebook for the Test of the additional Components](./nbs/0-b-Additional%20Component%20Installation%20Test.ipynb).
+You can check, whether the additional packages also work fine, with [The Jupyter Notebook for the Test of the additional Components](./nbs/0-b-Additional%20Component%20Installation%20Test.ipynb).
 
-#### Refresher - Python(3) Basics
+## Refresher - Python(3) Basics
 If you need a refresher of your Python knowledge the [Interactive Python Tutorial](https://www.learnpython.org/) is a good starting point.
 
 The Lectures 
