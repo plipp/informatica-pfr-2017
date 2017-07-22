@@ -10,7 +10,7 @@ Dive into the following topics
 
 ## Up Front Preparations
 
-As this is a notebook class, you should try to set Python on your machine before we start with the actual workshop.
+As this is a notebook class, you should try to setup Python on your machine before we start with the actual workshop.
 
 ### Python Distribution Installation
 The easiest way to do so is by installing the [Anaconda Distribution](https://www.continuum.io/).
