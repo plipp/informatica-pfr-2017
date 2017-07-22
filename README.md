@@ -10,14 +10,22 @@ Dive into the following topics
 
 ## Up Front Preparations
 
-As this is a notebook class, you should try to setup Python on your machine before we start with the actual workshop.
+As this is a notebook class, you should try to setup Python and Git on your machine before we start with the actual workshop.
+
+### Git Installation
+The course will be available in github. The most convenient way to fetch it and updates of it from there is installing a [Git Client](https://git-scm.com/downloads).
+
+Please refer to [Basic Git](https://git-scm.com/book/en/v2) for further information, how to work with `git`.
+
 
 ### Python Distribution Installation
 The easiest way to do so is by installing the [Anaconda Distribution](https://www.continuum.io/).
 Just download and install the current distribution with Python 3.6 or higher as described [in the Anaconda Installation Instructions](https://docs.continuum.io/anaconda/install).
 
 Then test the Anaconda installation by running your first notebook:
-Therefore run in a terminal:
+Therefore 
+- `git clone https://github.com/plipp/informatica-scala-2016.git` and 
+- run in a terminal:
 ```bash
 $ jupyter-notebook
 ```
