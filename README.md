@@ -46,6 +46,8 @@ If you don't succeed to install them upfront, don't worry: If help is needed, we
     conda install networkx
 
     pip install graphviz
+    
+    pip install xlrd
 ```
 On OS-Level you also will need graphviz.
 Please check the [Graphviz Homepage](http://www.graphviz.org/) about how to install on your Machine.
