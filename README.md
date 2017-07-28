@@ -69,6 +69,8 @@ The Lectures
 
 should be sufficient for attending the Workshop `IF PRO 02 Python für Wissenschaft und Forschung`.
 
+Also [A whirlwind tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) is a good starting point.
+
 # Further Reading/Resources
 
 This Workshop is inspired by
