@@ -5,7 +5,7 @@ Dive into the following topics
 - Numeric Computation
 - Data Visualization
     - basic plotting
-- Text Analysis
+- Machine Learning
 - Social Network Analysis
 
 ## Up Front Preparations
